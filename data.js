@@ -33,7 +33,7 @@ var APP_DATA = {
           "yaw": 2.5192649077652245,
           "pitch": 0.29428952635894134,
           "rotation": 12.566370614359176,
-          "target": "3-system-from-afar-jpeg"
+          "target": "3-full-scale-system-"
         }
       ],
       "infoHotspots": [
@@ -58,8 +58,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-flowmeter-3d-jpeg",
-      "name": "flowmeter 3d jpeg",
+      "id": "1-flowmeter-and-laptop",
+      "name": "Flowmeter and Laptop",
       "levels": [
         {
           "tileSize": 256,
@@ -90,13 +90,13 @@ var APP_DATA = {
           "yaw": 0.27781067741017473,
           "pitch": 0.45226206374896094,
           "rotation": 3.141592653589793,
-          "target": "3-system-from-afar-jpeg"
+          "target": "3-full-scale-system-"
         },
         {
           "yaw": 1.0307056382853368,
           "pitch": -0.24460662419551582,
           "rotation": 0,
-          "target": "2-3d-pipes-jpeg"
+          "target": "2-pipeworks"
         }
       ],
       "infoHotspots": [
@@ -115,8 +115,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "2-3d-pipes-jpeg",
-      "name": "3d pipes jpeg",
+      "id": "2-pipeworks",
+      "name": "Pipeworks",
       "levels": [
         {
           "tileSize": 256,
@@ -147,7 +147,7 @@ var APP_DATA = {
           "yaw": 0.6297296248422555,
           "pitch": -0.014105864475197905,
           "rotation": 1.5707963267948966,
-          "target": "1-flowmeter-3d-jpeg"
+          "target": "1-flowmeter-and-laptop"
         }
       ],
       "infoHotspots": [
@@ -172,8 +172,8 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "3-system-from-afar-jpeg",
-      "name": "system from afar jpeg",
+      "id": "3-full-scale-system-",
+      "name": "Full-Scale System ",
       "levels": [
         {
           "tileSize": 256,
@@ -204,13 +204,13 @@ var APP_DATA = {
           "yaw": 0.2846486367332268,
           "pitch": 0.2227438329077316,
           "rotation": 0,
-          "target": "1-flowmeter-3d-jpeg"
+          "target": "1-flowmeter-and-laptop"
         },
         {
           "yaw": 0.4885321569721395,
           "pitch": 0.05596881934803122,
           "rotation": 0,
-          "target": "2-3d-pipes-jpeg"
+          "target": "2-pipeworks"
         },
         {
           "yaw": -2.9101111362644296,
